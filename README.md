@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 - 🖥 I'm a self-taught developer passionate about web development.
-- 🚀 I'm learning **Full-stack** at the moment.
+- 🚀 I'm **Full-stack Developer**.
 - ⚡ Funfacts about me: I love animal, coffee and learning new technologies.
 
 <!-- My Skills -->
@@ -17,4 +17,4 @@
 
 
 ## 📬 Contact 
-For a quick response, Mail me on [gmail](gkaraoglu91@gmail.com)
+For a quick response, Mail me on [mail](<mailto:gkaraoglu91@gmail.com>)
