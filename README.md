@@ -17,4 +17,4 @@
 
 
 ## 📬 Contact 
-For a quick response, Mail me on [mail](<mailto:gkaraoglu91@gmail.com>)
+For a quick response, [gkaraoglu91@gmail.com](<mailto:gkaraoglu91@gmail.com>)
